@@ -28,6 +28,15 @@
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="></a>&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label="></a>
 </p>
+
+<h2 align="left">Certificates & Licenses</h2>
+<p align="left">
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/b6e49812-8334-4112-8d1b-b4650f89f7fa" target="blank"><img src="./assets/html-css-badge.png" width="80"></a>
+&nbsp; <a href="./assets/https://github.com/HammadSiddique/HammadSiddique/blob/main/assets/Microsoft_Certified_Professional_Certificate_0.pdf" target="blank"><img src="./assets/html-css-badge.png" width="80"></a>
+&nbsp; <a href="./assets/https://github.com/HammadSiddique/HammadSiddique/blob/main/assets/Microsoft_Certified_Professional_Certificate_1.pdf" target="blank"><img src="./assets/html-css-badge.png" width="80"></a>
+
+</p>
 <!---
 HammadSiddique/HammadSiddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
