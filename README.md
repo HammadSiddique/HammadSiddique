@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @HammadSiddique
-- 👀 I’m interested in Web Development, Artificial Intelligence - Data Science, Machine Learning. 
-- 🌱 I’m currently learning web development, Data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center"> Hi there 👋! I'm Hammad </h1>
+<h3 align="center"> I'm a software developer from Pakistan! 🇵🇰 </h3>
 
 <!---
 HammadSiddique/HammadSiddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
