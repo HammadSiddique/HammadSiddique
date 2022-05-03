@@ -33,8 +33,8 @@
 <p align="left">
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/b6e49812-8334-4112-8d1b-b4650f89f7fa" target="blank"><img src="./assets/html-css-badge.png" width="80"></a>
-&nbsp; <a href="./assets/https://github.com/HammadSiddique/HammadSiddique/blob/main/assets/Microsoft_Certified_Professional_Certificate_0.pdf" target="blank"><img src="./assets/html-css-badge.png" width="80"></a>
-&nbsp; <a href="./assets/https://github.com/HammadSiddique/HammadSiddique/blob/main/assets/Microsoft_Certified_Professional_Certificate_1.pdf" target="blank"><img src="./assets/html-css-badge.png" width="80"></a>
+&nbsp; <a href="./assets/Microsoft_Certified_Professional_Certificate_0.pdf" target="blank"><img src="./assets/azure-ai-fundamentals-600x600.png" width="80"></a>
+&nbsp; <a href="./assets/Microsoft_Certified_Professional_Certificate_1.pdf" target="blank"><img src="./assets/azure-ai-engineer-600x600.png" width="80"></a>
 
 </p>
 <!---
