@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there 👋! I'm Hammad </h1>
 <h3 align="center"> I'm a software developer from Pakistan!</h3>
-<div id="flag" align="centet">
-    <iframe src="https://giphy.com/embed/KAFbB4lHFco2ID2kIV" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/meltdown-stop-the-meltdownflags-KAFbB4lHFco2ID2kIV"></a></p>
-</div>
 
+<p align="center"> Currently, I'm learning remote software development from Microverse. I spend most of my time learning different frameworks and technologies related to web development.</p>
+
+<img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
 <!---
 HammadSiddique/HammadSiddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
