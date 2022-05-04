@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Hammad+Siddique+%F0%9F%98%84;I'm+a+Software+Developer+%E2%9C%A8;Nice+to+meet+you+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
 <h1 align="center"> Hi there 👋! I'm Hammad </h1>
 <h3 align="center"> I'm a software developer from Pakistan!</h3>
 
@@ -25,7 +27,7 @@
 - **Fun Fact**: My most used line of code is `git clone`
 
 <h2 align="left">Skills</h2>
-<p align="left">
+<p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="></a>&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label="></a>
 </p>
 
