@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Hammad+Siddique+%F0%9F%98%84;I'm+a+Software+Developer+%E2%9C%A8;Nice+to+meet+you+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=6000&color=7E62F7&center=true&vCenter=true&width=650&height=70&lines=Hi+There!+%F0%9F%98%84;Welcome!+Nice+to+meet+you+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 <h1 align="center"> Hi there 👋! I'm Hammad </h1>
 <h3 align="center"> I'm a software developer from Pakistan!</h3>
@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning JavaScript to create front-end web applications.
 
 - 💻 All **my projects** are available [here.](https://github.com/HammadSiddique?tab=repositories)
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=HammadSiddique&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hammad" /> </p>
 
 ### 🎯 Reach me on:
 
