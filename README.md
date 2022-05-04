@@ -46,9 +46,9 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HammadSiddique&theme=tokyonight" alt="Hammad" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HammadSiddique&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hammad" />
 
-<h2>Weekly Coding Stats</h2>
+<h2 align='left'>Weekly Coding Stats</h2>
 
-[![Hammad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HammadSiddique&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HammadSiddique&theme=tokyonight" alt="Hammad" />
 
 <!---
 HammadSiddique/HammadSiddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
