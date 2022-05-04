@@ -44,8 +44,7 @@
 <h2 align="left"> Github Stats </h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HammadSiddique&show_icons=true&locale=en&theme=tokyonight" alt="Hammad" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HammadSiddique&theme=tokyonight" alt="Hammad" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HammadSiddique&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hammad" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HammadSiddique&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hammad" />
 <h2 align='left'>Weekly Coding Stats</h2>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HammadSiddique&theme=tokyonight" alt="Hammad" />
