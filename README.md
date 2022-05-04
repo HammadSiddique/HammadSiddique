@@ -40,6 +40,10 @@
 &nbsp; <a href="./assets/Microsoft_Certified_Professional_Certificate_1.pdf" target="blank"><img src="./assets/azure-ai-engineer-600x600.png" width="80"></a>
 
 </p>
+
+<h2 align="left"> Github Stats </h2>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HammadSiddique&show_icons=true&locale=en&theme=tokyonight" alt="Hammad" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HammadSiddique&theme=tokyonight" alt="Hammad" />
 <!---
 HammadSiddique/HammadSiddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
