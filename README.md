@@ -18,7 +18,7 @@
 
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/hs_devv" target="_blank"><img align="center" src="./assets/twitter.png" alt="twitter" width="35" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/hammad-siddique-6a5469231/" target="_blank"><img align="center" src="./assets/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/-hammadsiddique/" target="_blank"><img align="center" src="./assets/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 </p>
 
 ### ✏ Interesting facts about me:
