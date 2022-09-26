@@ -8,7 +8,7 @@
 
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently learning JavaScript to create front-end web applications.
+- 🌱 I’m currently working on a full stack web app built with react and rails. Using ruby on rails for backend and react as frontend UI.
 
 - 💻 All **my projects** are available [here.](https://github.com/HammadSiddique?tab=repositories)
 
