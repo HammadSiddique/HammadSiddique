@@ -2,13 +2,13 @@
 
 <h3 align="center"> I'm a software developer from Pakistan!</h3>
 
-<p align="center"> Currently, I'm learning remote software development from Microverse. I spend most of my time learning different frameworks and technologies related to web development.</p>
+<p align="center">I have learned software development from Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
 
 <img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
 
-- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 I’m a **Junior Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently working on a full stack web app built with react and rails. Using ruby on rails for backend and react as frontend UI.
+- 🌱 I’m currently looking to get hired as a junior backend or full stack developer.
 
 - 💻 All **my projects** are available [here.](https://github.com/HammadSiddique?tab=repositories)
 
