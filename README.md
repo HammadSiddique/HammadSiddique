@@ -35,7 +35,7 @@
 <h2 align="left">Certificates & Licenses</h2>
 <p align="left">
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/b6e49812-8334-4112-8d1b-b4650f89f7fa" target="blank"><img src="./assets/html-css-badge.png" width="80"></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.credential.net/b6e49812-8334-4112-8d1b-b4650f89f7fa" target="blank"><img src="./assets/html-css-badge.png" width="80"></a>
 &nbsp; <a href="https://www.credential.net/9ebcced6-e940-46c8-957b-f5e527c48244" target="blank"><img src="./assets/js-badge.png" width="80"></a>
 &nbsp; <a href="https://www.credential.net/3486e93c-e6bc-4ff8-a764-edb52e1f5844" target="blank"><img src="./assets/react-badge.png" width="80"></a>
 &nbsp; <a href="https://www.credential.net/a489ef50-1244-43c0-93f6-90a4bb9780ba target="blank"><img src="./assets/ruby-badge.png" width="80"></a>
