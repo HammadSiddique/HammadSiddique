@@ -8,7 +8,7 @@
 
 - 👩‍💻 I’m a **Junior Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
-- 🌱 I’m currently looking to get hired as a junior backend or full stack developer.
+- 🌱 Exploring new exciting opportunities to grow and take my skills to another level. If you got an interesting offer, free feel to contact me!
 
 - 💻 All **my projects** are available [here.](https://github.com/HammadSiddique?tab=repositories)
 
