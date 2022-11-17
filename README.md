@@ -8,7 +8,7 @@
 
 - 👩‍💻 I’m a **Junior Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
-- 🌱 Exploring new exciting opportunities to grow and take my skills to another level. If you got an interesting offer, free feel to contact me!
+- 🌱 Currently I'm a software developer intern at [20TH LETTER](https://20thletter.com/). Still open to some amazing and exciting full-time oppurtunities. Feel free to contact me.
 
 - 💻 All **my projects** are available [here.](https://github.com/HammadSiddique?tab=repositories)
 
