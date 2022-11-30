@@ -23,7 +23,7 @@
 
 ### ✏ Interesting facts about me:
 
-- **Goals**: By the end of this year, I intend to become a good full stack developer
+- **Goals**: By the end of this year, I wanna become an amazing software developer.
 - **Hobbies**: Sports ⚽ Gaming 🎮 Movies 🎥
 - **Fun Fact**: My most used line of code is `git clone` and my only flex is `display: flex;`
 
